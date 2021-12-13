@@ -1,0 +1,2 @@
+# 809y_final_project
+The final project is inspired by the the challenge of autonomous robotics for Ur- ban Search and Rescue (US&amp;R). In US&amp;R after a disaster occurs, a robot is used to explore an unknown environment, such as a partially collapsed building, and locates trapped or unconscious human victims of the disaster. The robot builds a map of the collapsed building as it explores, and places markers in the map of where the victims are located. This map is then given to trained First Responders who use it to go into the building and rescue the victims.
